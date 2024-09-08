@@ -1,0 +1,44 @@
+2024-09-08 15:23:47,164 [1] DEBUG Folder_Sync.Program - Aplicação iniciada!
+2024-09-08 15:23:53,312 [1] INFO  Folder_Sync.Program - Folder Sync Service started.
+2024-09-08 15:23:53,322 [1] INFO  Folder_Sync.Program - Executing Folder Sync Service started.
+2024-09-08 15:23:53,324 [1] INFO  Folder_Sync.Program - Running folder synchronization at 08/09/2024 15:23:53 +01:00
+2024-09-08 15:23:54,488 [1] INFO  Folder_Sync.Program - Synchronization complete.
+2024-09-08 17:42:59,345 [1] DEBUG Folder_Sync.Program - Aplicação iniciada!
+2024-09-08 17:43:08,269 [1] INFO  Folder_Sync.Program - Folder Sync Service started.
+2024-09-08 17:43:08,286 [1] INFO  Folder_Sync.Program - Executing Folder Sync Service started.
+2024-09-08 17:43:08,290 [1] INFO  Folder_Sync.Program - Running folder synchronization at 08/09/2024 17:43:08 +01:00
+2024-09-08 17:43:09,541 [1] INFO  Folder_Sync.Program - Synchronization complete.
+2024-09-08 18:02:45,112 [1] DEBUG Folder_Sync.Program - Aplicação iniciada!
+2024-09-08 18:02:46,320 [1] INFO  Folder_Sync.Program - Folder Sync Service started.
+2024-09-08 18:02:46,327 [1] INFO  Folder_Sync.Program - Executing Folder Sync Service started.
+2024-09-08 18:02:46,329 [1] INFO  Folder_Sync.Program - Running folder synchronization at 08/09/2024 18:02:46 +01:00
+2024-09-08 18:02:46,331 [1] INFO  Folder_Sync.Program - Synchronization complete.
+2024-09-08 18:04:38,020 [1] DEBUG Folder_Sync.Program - Aplicação iniciada!
+2024-09-08 18:04:38,608 [1] INFO  Folder_Sync.Program - Folder Sync Service started.
+2024-09-08 18:04:38,618 [1] INFO  Folder_Sync.Program - Executing Folder Sync Service started.
+2024-09-08 18:04:38,620 [1] INFO  Folder_Sync.Program - Running folder synchronization at 08/09/2024 18:04:38 +01:00
+2024-09-08 18:04:38,623 [1] INFO  Folder_Sync.Synchronizer.FolderSynchronizer - File copied: C:\Users\johan\projetos\Folder_Sync\SourceFolder\test - Cópia.txt -> C:\Users\johan\projetos\Folder_Sync\ReplicaFolder\test - Cópia.txt
+2024-09-08 18:04:38,624 [1] INFO  Folder_Sync.Program - Synchronization complete.
+2024-09-08 18:09:03,583 [1] DEBUG Folder_Sync.Program - Aplicação iniciada!
+2024-09-08 18:09:04,214 [1] INFO  Folder_Sync.Program - Folder Sync Service started.
+2024-09-08 18:09:04,221 [1] INFO  Folder_Sync.Program - Executing Folder Sync Service started.
+2024-09-08 18:09:04,222 [1] INFO  Folder_Sync.Program - Running folder synchronization at 08/09/2024 18:09:04 +01:00
+2024-09-08 18:09:04,224 [1] INFO  Folder_Sync.Synchronizer.FolderSynchronizer - File copied: C:\Users\johan\projetos\Folder_Sync\SourceFolder\test - Cópia.txt -> C:\Users\johan\projetos\Folder_Sync\ReplicaFolder\test - Cópia.txt
+2024-09-08 18:09:04,225 [1] INFO  Folder_Sync.Synchronizer.FolderSynchronizer - File copied: C:\Users\johan\projetos\Folder_Sync\SourceFolder\test.txt -> C:\Users\johan\projetos\Folder_Sync\ReplicaFolder\test.txt
+2024-09-08 18:09:04,225 [1] INFO  Folder_Sync.Program - Synchronization complete.
+2024-09-08 18:19:04,323 [6] INFO  Folder_Sync.Program - Running folder synchronization at 08/09/2024 18:19:04 +01:00
+2024-09-08 18:19:04,332 [6] INFO  Folder_Sync.Synchronizer.FolderSynchronizer - File deleted: C:\Users\johan\projetos\Folder_Sync\ReplicaFolder\test - Cópia.txt
+2024-09-08 18:19:04,333 [6] INFO  Folder_Sync.Program - Synchronization complete.
+2024-09-08 18:32:48,937 [1] DEBUG Folder_Sync.Program - Aplicação iniciada!
+2024-09-08 18:32:49,439 [1] INFO  Folder_Sync.Program - Folder Sync Service started.
+2024-09-08 18:32:49,445 [1] INFO  Folder_Sync.Program - Executing Folder Sync Service started.
+2024-09-08 18:32:49,445 [1] INFO  Folder_Sync.Program - Running folder synchronization at 08/09/2024 18:32:49 +01:00
+2024-09-08 18:32:49,448 [1] INFO  Folder_Sync.Synchronizer.FolderSynchronizer - Replica folder created: C:\Users\johan\projetos\Folder_Sync\ReplicaFolder\Nova pasta
+2024-09-08 18:32:49,450 [1] INFO  Folder_Sync.Synchronizer.FolderSynchronizer - File copied: C:\Users\johan\projetos\Folder_Sync\SourceFolder\Nova pasta\test - Cópia.txt -> C:\Users\johan\projetos\Folder_Sync\ReplicaFolder\Nova pasta\test - Cópia.txt
+2024-09-08 18:32:49,450 [1] INFO  Folder_Sync.Program - Synchronization complete.
+2024-09-08 18:33:46,632 [1] DEBUG Folder_Sync.Program - Aplicação iniciada!
+2024-09-08 18:33:47,163 [1] INFO  Folder_Sync.Program - Folder Sync Service started.
+2024-09-08 18:33:47,171 [1] INFO  Folder_Sync.Program - Executing Folder Sync Service started.
+2024-09-08 18:33:47,172 [1] INFO  Folder_Sync.Program - Running folder synchronization at 08/09/2024 18:33:47 +01:00
+2024-09-08 18:33:47,172 [1] INFO  Folder_Sync.Synchronizer.FolderSynchronizer - Directory deleted: C:\Users\johan\projetos\Folder_Sync\ReplicaFolder\Nova pasta
+2024-09-08 18:33:47,172 [1] INFO  Folder_Sync.Program - Synchronization complete.
